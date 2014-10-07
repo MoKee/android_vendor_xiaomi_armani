@@ -300,13 +300,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/armani/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/xiaomi/armani/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
-#	vendor/xiaomi/armani/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
 
 PRODUCT_COPY_FILES += \
 	vendor/xiaomi/armani/proprietary/bin/qrngd:system/bin/qrngd \
 	vendor/xiaomi/armani/proprietary/bin/qrngp:system/bin/qrngp \
-
-	    
-#PRODUCT_COPY_FILES += \
-#    vendor/xiaomi/armani/proprietary/vendor/lib/hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
 
